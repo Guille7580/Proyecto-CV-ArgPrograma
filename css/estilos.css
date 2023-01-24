@@ -163,7 +163,11 @@ body{
 .about :last-child{
     margin-bottom: 0px;
 }
+.aboutme {
+    /* font-weight: 300; */
+    font-size: 500px;
 
+}
 .texto2{
     color: #5c1818;
     text-transform: uppercase;
@@ -173,7 +177,8 @@ body{
 }
 
 p{
-    color: #333;
+    font-size: 1.1em;
+    color: rgb(17, 4, 4);
 }
 
 .about .box{
