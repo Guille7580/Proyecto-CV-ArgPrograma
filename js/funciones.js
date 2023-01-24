@@ -11,5 +11,5 @@ document.getElementById("wsp").addEventListener("click",function () {
 })
 
 document.getElementById("ubic").addEventListener("click",function () {
-    window.open("https://goo.gl/maps/mPCXxrrPqJ7XnDmKA")
+    window.open("https://goo.gl/maps/TsqPmcDZXDt3AC5h8")
 })
