@@ -1,15 +1,15 @@
 document.getElementById("linin").addEventListener("click",function () {
-    window.open("https://www.linkedin.com/in/santiago-andermatten-1753531a2/")
+    window.open("https://www.linkedin.com/in/guille-appe-fullstack/")
 })
 document.getElementById("mail").addEventListener("click",function () {
-    window.open('mailto:santiagoandermatten1@gmail.com');
+    window.open('mailto:guilleappen@hotmail.com');
     
 })
 
 document.getElementById("wsp").addEventListener("click",function () {
-    window.open("http://wa.me/+543472468850")
+    window.open("http://wa.me/+543533680954")
 })
 
 document.getElementById("ubic").addEventListener("click",function () {
-    window.open("https://goo.gl/maps/XHE9wVYqAAAPrJqu7")
+    window.open("https://goo.gl/maps/mPCXxrrPqJ7XnDmKA")
 })
