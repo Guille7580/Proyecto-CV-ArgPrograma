@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
 *{
     font-family: 'DM Sans', sans-serif;
-    margin: 2px;
-    padding: 2px;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -52,7 +52,7 @@ body{
     position: relative;
     width: 200px;
     height: 200px;
-    border-radius: 50%;
+    border-radius: 50%; 
     overflow: hidden;
 
 }
